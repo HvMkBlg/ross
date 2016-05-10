@@ -16,11 +16,15 @@ Kungl. Dalregementets marsch (Notgaffel);$
 2016-04-26 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-03 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-10 18:45;2,5;Repetition;Cozmoz;;$
-2016-05-14 08:00;8;Marschspelning: Dalkarlsmarschen;Stockholm;;$
+2016-05-14 08:00;11;Marschspelning: Dalkarlsmarschen;Stockholm;
+Avresa 8:00 från Musikskolan
+Uniform: m/87 basker och skärmmössa;$
 2016-05-17 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-24 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-27;2016-05-29;Marschspelning: Högvakt med vaktparad;Stockholm;;$
-2016-05-31 18:45;2,5;Repetition;Cozmoz;;$
+2016-05-30 17:30;3;Maschspelning: Blodomloppet;Hagaaulan;
+Samling vid Hagaaulan 17:30. 
+Uniform: m/90 (ev. lätt);$
 2016-06-06;;Marschspelning: Nationaldagsfirande;Rommehed;;$
-2016-06-10 14:00;;Marschspelning?: Studentmarsch?;Falun?;;$
+2016-06-07 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-12 15:00;;Konsert: Stadsparken;Falun;;$
