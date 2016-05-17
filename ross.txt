@@ -1,5 +1,5 @@
 2016-04-12 18:45;2,5;Repetition;Cozmoz;;$
-2016-04-17 11:30;4;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Avresa 11:30 från Musikskolan. m/87
+2016-04-17 11:30;4;Konsert: Lottornas kyrksï¿½ndag i Mora;Mora kyrka;Avresa 11:30 frï¿½n Musikskolan. m/87
 Kungl. Livreg. Dragoners marsch
 My Fair Lady
 Italian Festival
@@ -19,7 +19,14 @@ Kungl. Dalregementets marsch (Notgaffel);$
 2016-05-14;;Marschspelning: Dalkarlsmarschen;Stockholm;;$
 2016-05-17 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-24 18:45;2,5;Repetition;Cozmoz;;$
-2016-05-27;2016-05-29;Marschspelning: Högvakt med vaktparad;Stockholm;;$
+2016-05-27 19:30;2016-05-29;Marschspelning: HÃ¶gvakt med vaktparad;Stockholm;;$
+2016-05-28 09:00;1;Avresa;Best Western Hotel Bentleys;Avresa mot K1 fÃ¶r repetition;$
+2016-05-28 11:25;1,5;HÃ¶gvakt med vaktparad;Armemuseum;;$
+2016-05-28 13:15;1,5;Lunch;;;$
+2016-05-28 20:00;2;Middag;;;$
+2016-05-29 12:25;1,5;HÃ¶gvakt med vaktparad;Armemuseum;;$
+2016-05-29 14:15;1,5;Lunch;;;$
+2016-05-30 17:30;3;Marschspelning: Blodomloppet;Hagaaulan;m/90 (eventuellt lÃ¤tt);$
 2016-05-31 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-06;;Marschspelning: Nationaldagsfirande;Rommehed;;$
 2016-06-10 14:00;;Marschspelning?: Studentmarsch?;Falun?;;$
