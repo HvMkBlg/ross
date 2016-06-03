@@ -32,6 +32,8 @@ Uniform: m/87 basker och skärmmössa;$
 2016-05-30 17:30;3;Maschspelning: Blodomloppet;Hagaaulan;
 Samling vid Hagaaulan 17:30. 
 Uniform: m/90 (ev. lätt);$
-2016-06-06;;Marschspelning: Nationaldagsfirande;Rommehed;;$
+2016-06-06 18:30;2,0;Marschspelning: Nationaldagsfirande;Rommehed;Samling 18:30 bakom Off. 
+Notersnurra som högvakten + nationalsång
+Basker + skärmmössa;$
 2016-06-07 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-12 15:00;;Konsert: Stadsparken;Falun;;$
