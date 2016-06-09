@@ -36,5 +36,5 @@ Uniform: m/90 (ev. lätt);$
 Notersnurra som högvakten + nationalsång
 Basker + skärmmössa;$
 2016-06-07 18:45;2,5;Repetition;Cozmoz;;$
-2016-06-12 14:30;;Konsert: Stadsparken;Falun;Samling 14:30, båda mössorna. Konsert 15:00
+2016-06-12 14:30;3,0;Konsert: Stadsparken;Falun;Samling 14:30, båda mössorna. Konsert 15:00
 Tårta och sommaravslutning efter konstert. ;$
