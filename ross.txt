@@ -38,3 +38,28 @@ Basker + skärmmössa;$
 2016-06-07 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-12 14:30;3,0;Konsert: Stadsparken;Falun;Samling 14:30, båda mössorna. Konsert 15:00
 Tårta och sommaravslutning efter konstert. ;$
+2016-08-21 19:00;2,5;Festival Salute repetition;Cozmoz;;$
+2016-08-23 18:45;2,5;Repetition;Cozmoz;;$
+2016-08-25;;Konsert- och marschspelning: Soltaderinran;Falun;;$
+2016-08-28 19:00;2,5;Festival Salute repetition;Cozmoz;;$
+2016-09-02 18:30;2,5;Genrep Festival Salute;Älvhagen;;$
+2016-09-03 14:00;1;Soundcheck: Festival Salute;Älvhagen;;$
+2016-09-03 20:00;2;Konsert- och marschspelning: Festival Salute;Älvhagen;;$
+2016-09-06 18:45;2,5;Repetition;Cozmoz;;$
+2016-09-13 18:45;2,5;Repetition;Cozmoz;;$
+2016-09-03;;Konsert (x2): Bilkårens riksstämma;Falun;(+2 trp 17/9);$
+2016-09-20 18:45;2,5;Repetition;Cozmoz;;$
+2016-09-27 18:45;2,5;Repetition;Cozmoz;;$
+2016-10-04 18:45;2,5;Repetition;Cozmoz;;$
+2016-10-11 18:45;2,5;Repetition;Cozmoz;;$
+2016-10-18 18:45;2,5;Repetition;Cozmoz;;$
+2016-10-25;;Genrep;;;$
+2016-10-29;;Konsert: Dalabataljonens höstfest;Falun;;$
+2016-11-01;;Genrep;;;$
+2016-11-03;;Konsert: Musikafton;;;$
+2016-11-15 18:45;2,5;Repetition;Cozmoz;;$
+2016-11-19;;Konsert: Lottornas riksstämma;Mora;;$
+2016-11-22 18:45;2,5;Repetition;Cozmoz;;$
+2016-11-27;;Konsert: Julskyltning X 2;Borlänge;;$
+2016-11-29 18:45;2,5;Repetition;Cozmoz;;$
+2016-12-06;;Julavslutning;;;$
