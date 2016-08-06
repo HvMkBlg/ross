@@ -38,14 +38,8 @@ Basker + skärmmössa;$
 2016-06-07 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-12 14:30;3,0;Konsert: Stadsparken;Falun;Samling 14:30, båda mössorna. Konsert 15:00
 Tårta och sommaravslutning efter konstert. ;$
-2016-08-13 14:00;2,5;Marschspelning;Falun;Veteranmarschen;$
-2016-08-21 19:00;2,5;Festival Salute repetition;Cozmoz;;$
 2016-08-23 18:45;2,5;Repetition;Cozmoz;;$
 2016-08-25;;Konsert- och marschspelning: Soltaderinran;Falun;;$
-2016-08-28 19:00;2,5;Festival Salute repetition;Cozmoz;;$
-2016-09-02 18:30;2,5;Genrep Festival Salute;Älvhagen;;$
-2016-09-03 14:00;1;Soundcheck: Festival Salute;Älvhagen;;$
-2016-09-03 20:00;2;Konsert- och marschspelning: Festival Salute;Älvhagen;;$
 2016-09-06 18:45;2,5;Repetition;Cozmoz;;$
 2016-09-08 10:00;2,5;Marschspelning;Falun;Polishunds SM;$
 2016-09-13 18:45;2,5;Repetition;Cozmoz;;$
