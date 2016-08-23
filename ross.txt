@@ -40,6 +40,7 @@ Basker + skärmmössa;$
 Tårta och sommaravslutning efter konstert. ;$
 2016-08-23 18:45;2,5;Repetition;Cozmoz;;$
 2016-08-25;;Konsert- och marschspelning: Soltaderinran;Falun;;$
+2016-08-30 19:30;2,5;Konsert- och Marschspelning;Stortapto;Rommehed;;$
 2016-09-06 18:45;2,5;Repetition;Cozmoz;;$
 2016-09-08 10:00;2,5;Marschspelning;Falun;Polishunds SM;$
 2016-09-13 18:45;2,5;Repetition;Cozmoz;;$
