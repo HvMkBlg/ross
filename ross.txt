@@ -42,11 +42,9 @@ Tårta och sommaravslutning efter konstert. ;$
 2016-08-25;;Konsert- och marschspelning: Soltaderinran;Falun;;$
 2016-08-30 19:30;2,5;Konsert- och Marschspelning: Stortapto;Rommehed;;$
 2016-09-06 18:45;2,5;Repetition;Cozmoz;;$
-2016-09-08 10:00;2,5;Marschspelning;Falun;Polishunds SM;$
 2016-09-13 18:45;2,5;Repetition;Cozmoz;;$
-2016-09-18;;Konsert (x2): Bilkårens riksstämma;Falun;(+2 trp 17/9);$
+2016-09-18 08:00;2,5;Konsert: Bilkårens riksstämma;Kristine kyrka, Falun;Samling 08:00 Konsert 08:30;$
 2016-09-20 18:45;2,5;Repetition;Cozmoz;;$
-2016-09-22 17:00;2,5;Marschspelning;Avesta;Avesta kommun;$
 2016-09-27 18:45;2,5;Repetition;Cozmoz;;$
 2016-10-04 18:45;2,5;Repetition;Cozmoz;;$
 2016-10-11 18:45;2,5;Repetition;Cozmoz;;$
