@@ -50,7 +50,7 @@ Tårta och sommaravslutning efter konstert. ;$
 2016-10-11 18:45;2,5;Repetition;Cozmoz;;$
 2016-10-18 18:45;2,5;Repetition;Cozmoz;;$
 2016-10-24 18:45;2,5;Genrep;Dalasalen, Falun;OBS! Måndag;$
-2016-10-29;;Konsert: Dalabataljonens höstfest;Dalasalen, Falun;;$
+2016-10-29 20:30;3,0;Konsert: Dalabataljonens höstfest;Dalasalen, Falun;Ingång baksidan;$
 2016-11-01 18:45;2,5;Genrep;Cozmoz, Borlänge;;$
 2016-11-03;;Konsert: Musikafton;Dalasalen, Falun;;$
 2016-11-15 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
