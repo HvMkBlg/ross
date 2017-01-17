@@ -1,4 +1,4 @@
-2016-04-12 18:45;2,5;Repetition;Cozmoz;;$
+﻿2016-04-12 18:45;2,5;Repetition;Cozmoz;;$
 2016-04-17 11:30;4;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Avresa 11:30 från Musikskolan. m/87
 Kungl. Livreg. Dragoners marsch
 My Fair Lady
@@ -56,6 +56,34 @@ Tårta och sommaravslutning efter konstert. ;$
 2016-11-15 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2016-11-19 13:15;4,0;Konsert- och marschspelning: Lottornas riksstämma;Mora;;$
 2016-11-22 18:45;2,5;Repetition;Cozmoz;;$
-2016-11-27;;Konsert: Julskyltning X 2;Sveatorget, Borlänge;;$
+2016-11-27 15:30;3,0;Konsert: Julskyltning X 2;Sveatorget, Borlänge;;$
 2016-11-29 18:45;2,5;Repetition;Cozmoz;;$
 2016-12-06;;Julavslutning;;;$
+2017-01-24 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-01-31 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-02-07 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-02-14 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-02-21 18:45;2,5;Genrep;Cozmoz, Borlänge;;$
+2017-01-26 13:00;4,0;Konsert: Semmelkonsert;Cozmoz, Borlänge;m/87;$
+2017-02-28 18:45;2,0;Årsmöte;;;$
+2017-03-07 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-03-14 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-03-21 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-03-28 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-03-29;;Spel: Soldaterinran;;;$
+2017-04-04 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-04-11 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-04-22;;Dirigentkurs (Övningsorketer);Cozmoz, Borlänge;;$
+2017-04-23;;Konsert: Dirigentkurs;Cozmoz, Borlänge;;$
+2017-04-25 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-04-27;;Marschspelning: GU Utryckning;;;$
+2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-31;;Marschspelning: Blodomlopped;Sportfältet, Borlänge;;$
+2017-06-06;;Marchspelning: Nationaldagen;Rommehedslägret;;$
+2017-06-13 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-06-20 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-08-19;2017-08-20;Marschspelning: Högvakt;Kungliga slottet, Stockholm;;$
