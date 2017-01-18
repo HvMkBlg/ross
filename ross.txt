@@ -77,12 +77,12 @@ Tårta och sommaravslutning efter konstert. ;$
 2017-04-23;;Konsert: Dirigentkurs;Cozmoz, Borlänge;;$
 2017-04-25 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-04-27;;Marschspelning: GU Utryckning;;;$
-2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-02 18:45;2,5;Repetition: Tisdagsrepetiton;Cozmoz, Borlänge;;$
 2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-31;;Marschspelning: Blodomlopped;Sportfältet, Borlänge;;$
+2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;;$
 2017-06-06;;Marchspelning: Nationaldagen;Rommehedslägret;;$
 2017-06-13 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-06-20 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
