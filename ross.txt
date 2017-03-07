@@ -89,20 +89,22 @@ Kungl. Dalregementets marsch
 2017-03-07 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-03-14 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-03-28 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-03-29;;Spel: Soldaterinran;;;$
+2017-03-29;;Spel: Soldaterinran;Skjutfältet;m/90;$
 2017-04-04 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-04-11 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-04-22;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;;$
 2017-04-23;;Konsert: Dirigentkurs;Cozmoz, Borlänge;;$
 2017-04-25 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-04-27;;Spel: GU Utryckning;;;$
-2017-05-02 18:45;2,5;Repetition: Tisdagsrepetiton;Cozmoz, Borlänge;;$
+2017-04-27 18:00;;Marschspelning: GU Utryckning (Prel: 18:00);Dalasalen;;$
+2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2016-05-14;;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-25;;Marschspelning: Dalkarlsmarschen (Ca: 15:30);Stjärnsund;;$
 2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;;$
-2017-06-06;;Marchspelning: Nationaldagen;Rommehedslägret;;$
-2017-06-13 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-06-20 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90;$
+2017-06-06;;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
+2017-06-10;;Marschspelning: Veterandag (Lunchtid);Furudal;;$
+2017-06-11 15:00;2,5;Marschspelning: Stadsparken;Falun;m/87;$
 2017-08-18;2017-08-20;Marschspelning: Högvakt;Kungliga slottet, Stockholm;;$
