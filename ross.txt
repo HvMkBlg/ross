@@ -86,13 +86,13 @@ Lottamarschen
 Kungl. Dalregementets marsch
 ;$
 2017-02-28 19:00;2,0;Årsmöte;Cozmoz, Borlänge;;$
-2017-03-07 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-03-07 18:45;2,5;Repetition;Hagagymnasiets aula, Borlänge;Ingång från sidan av aulan;$
 2017-03-14 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-03-28 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-03-29;;Spel: Soldaterinran;Skjutfältet;m/90;$
 2017-04-04 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-04-11 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-04-22;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;;$
+2017-04-22 10:00;8,0;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;;$
 2017-04-23;;Konsert: Dirigentkurs;Cozmoz, Borlänge;;$
 2017-04-25 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-04-27 18:00;2,5;Spel: GU Utryckning (Prel: 18:00);Dalasalen;;$
