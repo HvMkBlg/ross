@@ -92,13 +92,59 @@ Kungl. Dalregementets marsch
 2017-03-29;;Spel: Soldaterinran;Skjutfältet;m/90;$
 2017-04-04 18:45;2,5;Repetition;Hagagymnasiets aula, Borlänge;Ingång från sidan av aulan;$
 2017-04-11 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-04-22 10:00;8,0;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;;$
-2017-04-23;;Konsert: Dirigentkurs;Cozmoz, Borlänge;;$
-2017-04-25 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-04-22 10:00;8,0;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;
+Repertoar: 
+Bring Him Home
+Port-au-Prince
+Bröllopsmarsch
+Danza sonora
+Columbine polka-mazurka
+A Galop To End All Galops
+Belle Of The Ball
+El Torero
+I gevär
+På post för Sverige
+Svensk signalmarsch nr 1
+Till fronten
+High Society
+;$
+2017-04-23 12:00;3,0;Genrep: Dirigentkurs;Cozmoz, Borlänge;
+Bring Him Home
+Port-au-Prince
+Bröllopsmarsch
+Danza sonora
+Columbine polka-mazurka
+A Galop To End All Galops
+Belle Of The Ball
+El Torero
+I gevär
+På post för Sverige
+Svensk signalmarsch nr 1
+Till fronten
+High Society
+;$
+2017-04-23 15:00;2,5;Konsert: Dirigentkurs;Cozmoz, Borlänge;
+Uniform: m/87
+
+Bring Him Home
+Port-au-Prince
+Bröllopsmarsch
+Danza sonora
+Columbine polka-mazurka
+A Galop To End All Galops
+Belle Of The Ball
+El Torero
+I gevär
+På post för Sverige
+Svensk signalmarsch nr 1
+Till fronten
+High Society
+;$
+2017-04-25 19:00;2,5;Högvaktsrep;Ornäs skola, Borlänge;Ornäs sporthall vid Ornäs skola;$
 2017-04-27 18:00;2,5;Spel: GU Utryckning (Prel: 18:00);Dalasalen;;$
 2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2016-05-14;;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;;$
+2016-05-14 15:00;2,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-25;;Marschspelning: Dalkarlsmarschen (Ca: 15:30);Stjärnsund;;$
@@ -106,5 +152,5 @@ Kungl. Dalregementets marsch
 2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90;$
 2017-06-06;;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
 2017-06-10;;Marschspelning: Veterandag (Lunchtid);Furudal;;$
-2017-06-11 15:00;2,5;Marschspelning: Stadsparken;Falun;m/87;$
+2017-06-11 15:00;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
 2017-08-18;2017-08-20;Marschspelning: Högvakt;Kungliga slottet, Stockholm;;$
