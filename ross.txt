@@ -92,7 +92,7 @@ Kungl. Dalregementets marsch
 2017-03-29;;Spel: Soldaterinran;Skjutfältet;m/90;$
 2017-04-04 18:45;2,5;Repetition;Hagagymnasiets aula, Borlänge;Ingång från sidan av aulan;$
 2017-04-11 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-04-22 10:00;8,0;;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;
+2017-04-22 10:00;8,0;Dirigentkurs (Övningsorkester);Cozmoz, Borlänge;
 Repertoar: 
 Bring Him Home
 Port-au-Prince
@@ -108,7 +108,7 @@ Svensk signalmarsch nr 1
 Till fronten
 High Society
 ;$
-2017-04-23 10:00;8,0;Genrep: Dirigentkurs;Cozmoz, Borlänge;
+2017-04-23 12:00;3,0;Genrep: Dirigentkurs;Cozmoz, Borlänge;
 Bring Him Home
 Port-au-Prince
 Bröllopsmarsch
@@ -123,7 +123,7 @@ Svensk signalmarsch nr 1
 Till fronten
 High Society
 ;$
-2017-04-23 12:00;2,5;Konsert: Dirigentkurs;Cozmoz, Borlänge;
+2017-04-23 15:00;2,5;Konsert: Dirigentkurs;Cozmoz, Borlänge;
 Konserten börjar 15:00
 Uniform: m/87
 
