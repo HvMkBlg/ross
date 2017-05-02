@@ -145,7 +145,7 @@ High Society
 2017-04-27 18:00;2,5;Spel: GU Utryckning (Prel: 18:00);Dalasalen;;$
 2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2016-05-14 11:30;5,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87
+2017-05-14 11:30;5,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87
 Avresa 11:30
 Konsert 15:00;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
