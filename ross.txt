@@ -147,7 +147,21 @@ High Society
 2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-14 11:30;5,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87
 Avresa 11:30
-Konsert 15:00;$
+Konsert 15:00
+Program: 
+Bergsregementets marsch
+Svensk signalmarsch nr 1
+Gershwin On Broadway
+Bröllopsmarsch
+Promenade
+I gevär
+Port-au-Prince
+Danza sonora
+Elton John Classics
+På post för Sverige
+Lottamarschen
+Kungl. Dalregementetns marsch (NOTGAFFEL)
+;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-25 15:30;2,0;Marschspelning: Dalkarlsmarschen (Ca: 15:30);Stjärnsund;;$
