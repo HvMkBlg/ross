@@ -164,7 +164,7 @@ Kungl. Dalregementetns marsch (NOTGAFFEL)
 ;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-25 15:30;2,0;Marschspelning: Dalkarlsmarschen (Ca: 15:30);Stjärnsund;;$
+2017-05-25 16:00;2,0;Marschspelning: Dalkarlsmarschen;Stjärnsund Herrgården;;$
 2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90;$
 2017-06-06;;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
