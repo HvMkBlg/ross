@@ -164,7 +164,25 @@ Kungl. Dalregementetns marsch (NOTGAFFEL)
 ;$
 2017-05-16 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-23 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-25 16:00;2,0;Marschspelning: Dalkarlsmarschen;Stjärnsund Herrgården;;$
+2017-05-25 14:40;2,5;Marschspelning: Dalkarlsmarschen;Stjärnsund Herrgården;
+m90 lätt (med uppvikt ärm)
+Enbart kartongmusik
+
+Spelning kl 15:00
+Repertoar
+Svensk flygarmarsch
+General Cederschiöld
+Kungl. Göta Signalreg. marsch
+På post för Sverige
+Kungl. Dalregementets marsch
+High society
+Georgia On My Mind
+Hip To Be Square
+
+Korum ca 15:30
+Korum
+Den blomstertid
+;$
 2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90;$
 2017-06-06;;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
