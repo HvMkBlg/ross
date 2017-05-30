@@ -184,7 +184,8 @@ Korum
 Den blomstertid
 ;$
 2017-05-30 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-31;;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90;$
+2017-05-31 17:30;3,5;Marschspelning: Blodomloppet;Borlänge Sportfält;m/90
+Samling Hagagymnasiet;$
 2017-06-06;;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
 2017-06-10;;Marschspelning: Veterandag (Lunchtid);Furudal;;$
 2017-06-11 15:00;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
