@@ -193,8 +193,8 @@ Göta
 På post
 Polis om BSM finns i närheten
 ;$
-2017-06-06 18:30;2.0;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
-2017-06-10 10:30;4.0;Marschspelning: Veterandag;Furudal;Avresa 10:30 Uniform: m/87;$
+2017-06-06 18:30;2,0;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
+2017-06-10 10:30;4,0;Marschspelning: Veterandag;Furudal;Avresa 10:30 Uniform: m/87;$
 2017-06-11 14:40;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
 2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-14 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
