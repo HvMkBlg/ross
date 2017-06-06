@@ -144,7 +144,7 @@ High Society
 2017-04-25 19:00;2,5;Högvaktsrep;Ornäs skola, Borlänge;Ornäs sporthall vid Ornäs skola;$
 2017-04-27 18:00;2,5;Spel: GU Utryckning (Prel: 18:00);Dalasalen;;$
 2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+i2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-14 11:30;5,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87
 Avresa 11:30
 Konsert 15:00
@@ -154,7 +154,7 @@ Svensk signalmarsch nr 1
 Gershwin On Broadway
 Bröllopsmarsch
 Promenade
-I gevär
+nI gevär
 Port-au-Prince
 Danza sonora
 Elton John Classics
@@ -193,7 +193,15 @@ Göta
 På post
 Polis om BSM finns i närheten
 ;$
-2017-06-06 18:30;2,0;Marschspelning: Nationaldagen;Rommehedslägret;m/87;$
+2017-06-06 18:30;2,0;Marschspelning: Nationaldagen;Rommehedslägret;Uniform: m/87
+Spelordning:
+General Cederschiöld
+Heal the world
+Svensk flygarmarsch
+Du gamla du fria
+På post för Sverige
+Kungl. Göta signalreg. marsch
+;$
 2017-06-10 10:30;4,0;Marschspelning: Veterandag;Furudal;Avresa 10:30 Uniform: m/87;$
 2017-06-11 14:40;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
 2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
