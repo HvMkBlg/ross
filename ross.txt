@@ -202,8 +202,42 @@ Du gamla du fria
 På post för Sverige
 Kungl. Göta signalreg. marsch
 ;$
-2017-06-10 10:30;4,0;Marschspelning: Veterandag;Furudal;Avresa 10:30 Uniform: m/87;$
-2017-06-11 14:40;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
+2017-06-10 10:30;5,5;Marschspelning: Veterandag;Furudal;Avresa 10:30 från Borlänge Uniform: m/87;$
+2017-06-10 12:40;2017-06-10 13:00;Marschspelning: Veterandag;Furudal;Uniform: m/87
+Svensk flygarmarsch
+Till fronten
+Heal The World
+High Society
+På post för Sverige
+Gammel jegermarsj
+(reserv: General Cederschiöld)
+;$
+2017-06-10 14:00;2017-06-10 14:20;Marschspelning: Veterandag;Furudal;Uniform: m/87
+Svensk signalmarsch nr. 1
+I gevär
+Georgia On My Mind
+Hip To Be Square
+Kungl. Göta Signalreg. marsch
+Kungl. Dalreg. marsch
+(reserv: Kungl. Livreg. Dragoners marsch)
+;$
+2017-06-11 14:40;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87
+Spelordning: 
+Kungl. Göta Signalreg. marsch
+Gammel jegermarsj
+Georgia On My Mind
+Till fronten – mellanmarsch -
+I gevär
+Hip To Be Square
+Heal The World
+Svensk flygarmarsch – mellanmarsch -
+Norrlandsfärger
+High Society
+Svensk signalmarsch nr. 1
+Highland cathedral
+På post för Sverige
+Extranr:
+Kungl. Dalreg. marsch;$
 2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-14 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-15 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
