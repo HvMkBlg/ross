@@ -243,6 +243,18 @@ Kungl. Dalreg. marsch;$
 2017-08-15 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-16 18:45;2,5;Ev. Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-18 07:00;2017-08-20;Marschspelning: Högvakt;Kungliga slottet, Stockholm;Avresa 07:00;$
+2017-08-18 07:00;3,0;Avresa: Högvakt;Musikskolan, Borlänge;Avresa 07:00 Direkt till Armemuseum för uppvärmning;$
+2017-08-18 11:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
+2017-08-18 13:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;Incheckning på Hotell Best Western Kom efter lunch. Kvällen fri med middag efter eget tycke och smak;$
+2017-08-19 10:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
+2017-08-19 11:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
+2017-08-19 13:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
+2017-08-19 17:00;1,0;Avresa: Till Gamla Stan;Gamla Stan, Stockholm;;$
+2017-08-19 18:00;1,0;Konsert: Konsert på Stortorget;Stortorget, Stockholm;;$
+2017-08-19 20:45;2,0;Middag: Gemensam middag på restaurang Mongolia Djingis Khan;Mongolia Djingis Khan, Stockholm;;$
+2017-08-20 11:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
+2017-08-20 12:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
+2017-08-19 14:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
 2017-08-24;;Spel;;;$
 2016-08-29 19:30;2,5;Konsert- och Marschspelning: Stortapto;Rommehed;;$
 2016-09-09;2,5;Konsert- och Marschspelning: Festival Salute;Älvhagen, Borlänge;;$
