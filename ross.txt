@@ -250,7 +250,21 @@ Kungl. Dalreg. marsch;$
 2017-08-19 11:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
 2017-08-19 13:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
 2017-08-19 17:00;1,0;Avresa: Till Gamla Stan;Gamla Stan, Stockholm;;$
-2017-08-19 18:00;1,0;Konsert: Konsert på Stortorget;Stortorget, Stockholm;;$
+2017-08-19 18:00;1,0;Konsert: Konsert på Stortorget;Stortorget, Stockholm;
+Program Stortorget Stockholm 19 augusti 2017
+Svensk flygarmarsch
+Elton John Classics
+Castle Park March
+That´s Entertainment
+Kungl. Göta signalreg. marsch
+Heal The World
+A Galop To End All Galops
+General Cederschiöld
+High Society
+Highland Cathedral
+På post för Sverige
+Kungl. Dalreg. marsch (NOTGAFFEL)
+;$
 2017-08-19 20:45;2,0;Middag: Gemensam middag på restaurang Mongolia Djingis Khan;Mongolia Djingis Khan, Stockholm;;$
 2017-08-20 11:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
 2017-08-20 12:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
