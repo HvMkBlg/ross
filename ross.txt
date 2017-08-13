@@ -268,7 +268,7 @@ Kungl. Dalreg. marsch (NOTGAFFEL)
 2017-08-19 20:45;2,0;Middag: Gemensam middag på restaurang Mongolia Djingis Khan;Mongolia Djingis Khan, Stockholm;;$
 2017-08-20 11:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
 2017-08-20 12:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;;$
-2017-08-19 14:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
+2017-08-20 14:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
 2017-08-24;;Spel;;;$
 2016-08-29 19:30;2,5;Konsert- och Marschspelning: Stortapto;Rommehed;;$
 2016-09-09;2,5;Konsert- och Marschspelning: Festival Salute;Älvhagen, Borlänge;;$
