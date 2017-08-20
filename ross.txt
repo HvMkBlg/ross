@@ -286,7 +286,7 @@ På post för Sverige
 Kungl. Dalreg. marsch (NOTGAFFEL)
 ;$
 2017-08-19 20:45;2,0;Middag: Gemensam middag på restaurang Mongolia Djingis Khan;Mongolia Djingis Khan, Stockholm;;$
-2017-08-20 11:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
+2017-08-20 11:15;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
 2017-08-20 12:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;
 Förslag till packordning i notsnurran:
 Beväringsvisa
