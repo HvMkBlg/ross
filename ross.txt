@@ -300,8 +300,8 @@ Avgående vakts marsch
 ;$
 2017-08-20 14:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;;$
 2017-08-24;;Spel;;;$
-2017-08-27 18:00;1,0;Repetition: Stortapto;Cozmoz, Borlänge;;$
-2017-08-27 19:00;2,5;Repetition: Festival Salute;Cozmoz eller Hagagymnasiet, Borlänge;;$
+2017-08-27 18:00;1,0;Repetition: Stortapto;Hagaskolans aula, Borlänge;;$
+2017-08-27 19:00;2,5;Repetition: Festival Salute;Hagaskolans aula, Borlänge;;$
 2017-08-29 19:30;2,5;Konsert- och Marschspelning: Stortapto;Rommehed;;$
 2017-09-03 19:00;2,5;Repetition: Festival Salute;Cozmoz, Borlänge;;$
 2017-09-05 19:00;2,5;Repetition: Festival Salute;Cozmoz, Borlänge;;$
