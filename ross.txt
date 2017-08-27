@@ -144,7 +144,7 @@ High Society
 2017-04-25 19:00;2,5;Högvaktsrep;Ornäs skola, Borlänge;Ornäs sporthall vid Ornäs skola;$
 2017-04-27 18:00;2,5;Spel: GU Utryckning (Prel: 18:00);Dalasalen;;$
 2017-05-02 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
-i2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
+2017-05-09 18:45;2,5;Repetition;Cozmoz, Borlänge;;$
 2017-05-14 11:30;5,0;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Uniform: m/87
 Avresa 11:30
 Konsert 15:00
@@ -200,8 +200,7 @@ Heal the world
 Svensk flygarmarsch
 Du gamla du fria
 På post för Sverige
-Kungl. Göta signalreg. marsch
-;$
+Kungl. Göta signalreg. marsch;$
 2017-06-10 10:30;5,5;Marschspelning: Veterandag;Furudal;Avresa 10:30 från Borlänge Uniform: m/87;$
 2017-06-10 12:40;2017-06-10 13:00;Marschspelning: Veterandag;Furudal;Uniform: m/87
 Svensk flygarmarsch
@@ -238,7 +237,7 @@ Highland cathedral
 På post för Sverige
 Extranr:
 Kungl. Dalreg. marsch;$
-r2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
+2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-14 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-15 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 2017-08-16 18:45;2,5;Ev. Högvaktsrep;Cozmoz, Borlänge;;$
@@ -248,7 +247,7 @@ r2017-08-13 18:45;2,5;Högvaktsrep;Cozmoz, Borlänge;;$
 Förslag till packordning i notsnurran:
 Beväringsvisa
 Pågående vakts marsch
-oKungl. Göta signalreg. marsch
+Kungl. Göta signalreg. marsch
 Svensk flygarmarsch
 På post för Sverige
 High Society
@@ -258,7 +257,7 @@ Avgående vakts marsch
 2017-08-18 13:15;1,0;Lunch: Gemensam lunch efter högvakt;Kungliga slottet, Stockholm;Incheckning på Hotell Best Western Kom efter lunch. Kvällen fri med middag efter eget tycke och smak;$
 2017-08-19 10:00;1,0;Avresa: Till armemuseum för uppvärmning;Armemuseum, Stockholm;;$
 2017-08-19 11:25;2,0;Marschspelning: Högvakt med vaktparad;Kungliga slottet, Stockholm;
-PFörslag till packordning i notsnurran:
+Förslag till packordning i notsnurran:
 Beväringsvisa
 Pågående vakts marsch
 Kungl. Göta signalreg. marsch
