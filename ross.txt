@@ -318,6 +318,7 @@ Svenska arméns tapto
 2017-09-03 19:00;2,5;Repetition: Festival Salute;Cozmoz, Borlänge;;$
 2017-09-05 19:00;2,5;Repetition: Festival Salute;Cozmoz, Borlänge;;$
 2017-09-08 18:30;2,5;Genrep: Festival Salute;Älvhagen, Borlänge;;$
+2017-09-09 17:00;1,0;Soundcheck: Festival Salute;Älvhagen, Borlänge;;$
 2017-09-09 20:00;2,5;Konsert- och Marschspelning: Festival Salute;Älvhagen, Borlänge;Uniform m/90;$
 2017-09-19 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-09-26 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
