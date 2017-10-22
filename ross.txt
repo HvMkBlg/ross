@@ -325,11 +325,59 @@ Svenska arméns tapto
 2017-10-03 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-10-10 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-10-17 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-10-24 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-10-28;;Konsert: Höstfest;Dalasalen, Falun;;$
-2017-11-16;;Konsert: Musikafton;Dalasalen, Falun;;$
+2017-10-24 18:45;2,5;Repetition;Dalasalen, Falu;;$
+2017-10-28 20:30;3,0;Konsert: Höstfest;Dalasalen, Falun;
+Spelordning: 
+In the mood
+Bra vibrationer
+
+The worrying kind
+Jag vill om du vågar
+
+Hopelessly devoted to You
+Can´t help falling in love 
+ 
+Ain´t that a kick in the head
+Just a gigolo  
+ 
+Dag efter dag
+Piccadilly Cirkus 
+ 
+You are not alone
+Everything I do I do it for You 
+ 
+Tennessee waltz
+Svindlande affärer 
+ 
+Ebony and Ivory
+Bring him home
+
+If You leave me now
+Stand by your man
+;$
+2017-11-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-11-14 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2017-11-16;;Konsert: Musikafton;Dalasalen, Falun;
+Repertoar: 
+The Maestro
+Band Of Brothers
+Jurassic Park
+I sommarstaden
+Santiago Carnival
+Yrhättan
+Torna a Surriento
+Jalopy
+The Third Man Theme
+Elton John Classics
+A Galop To End All Galops
+Kungl. Kronobergs reg. marsch
+Regina marsch
+Den slaviska kvinnans avsked
+In die weite welt
+Kungl. Dalregementets marsch (notgaffel) 
+;$
 2017-11-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-11-28 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-12-03;;Konsert: Julskyltning X 2;Sveatorget, Borlänge;m/90;$
+2017-12-03 15:30;2,5;Konsert: Julskyltning X 2;Sveatorget, Borlänge;m/90;$
 2017-12-05 18:45;2,5;Julavsluttning;;alt. 12 December;$
+2018-01-09 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
