@@ -357,7 +357,7 @@ Stand by your man
 ;$
 2017-11-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-11-14 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-11-16;;Konsert: Musikafton;Dalasalen, Falun;
+2017-11-16 18:00;3,0;Konsert: Musikafton;Dalasalen, Falun;
 Repertoar: 
 The Maestro
 Band Of Brothers
@@ -379,5 +379,5 @@ Kungl. Dalregementets marsch (notgaffel)
 2017-11-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-11-28 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-12-03 15:30;2,5;Konsert: Julskyltning X 2;Sveatorget, Borlänge;m/90;$
-2017-12-05 18:45;2,5;Julavsluttning;;alt. 12 December;$
-2018-01-09 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2017-12-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2017-12-12 18:45;2,5;Julavslutning;Gammelgårder,Borlänge;;$
