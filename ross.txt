@@ -386,7 +386,7 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-01-23 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-01-30 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-02-06 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-02-11 15:00;2,0;Konsert: Semmelkonsert;Cozmoz, Borlänge;m/87
+2017-02-11 15:00;2,0;Konsert: Semmelkonsert;Cozmoz, Borlänge;m/87;$
 2018-02-13 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-02-20 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2017-02-27 18:45;2,0;Årsmöte;Cozmoz, Borlänge;;$
