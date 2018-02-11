@@ -405,4 +405,4 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-05-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-05-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-06;1,5;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
+2018-06-06;1,5;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
