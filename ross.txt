@@ -386,10 +386,10 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-01-23 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-01-30 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-02-06 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-02-11 15:00;2,0;Konsert: Semmelkonsert;Cozmoz, Borlänge;m/87;$
+2018-02-11 15:00;2,0;Konsert: Semmelkonsert;Cozmoz, Borlänge;m/87;$
 2018-02-13 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-02-20 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2017-02-27 18:45;2,0;Årsmöte;Cozmoz, Borlänge;;$
+2018-02-27 18:45;2,0;Årsmöte;Cozmoz, Borlänge;;$
 2018-03-06 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-03-13 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-03-20 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
@@ -405,4 +405,10 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-05-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-05-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-06;1,5;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
+2018-06-06;;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
+2018-06-10;;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
+2018-08-28 14:40;2,5;Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87;$
+2018-10-27 20:30;3.0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
+2018-11-08;;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
+2018-11-28;;Konsert: Spökbrigadens 50-års jubileum;Mässen, Falun;Uniform: m/87;$
+2018-12-02;;Konsert: Adventskonsert;Sveatorget, Borlänge;Uniform: m/90;$
