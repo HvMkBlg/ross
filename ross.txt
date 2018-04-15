@@ -396,13 +396,17 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-03-27 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-04-10 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-04-17 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-04-20 18:45;2,5;Genrep;Hagagymnasiets aula,Borlänge;;$
-2018-04-21;2,5;Konsert: "Hemvärnets musikkår Borlänge och Borlänge Skolors Musikkor, Gästartist Kalle Moraeus;Hagagymnasiets aula,Borlänge;;$
-2018-04-24 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-08 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-15 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-04-20 19:00;2,5;Genrep;Hagagymnasiets aula,Borlänge;;$
+2018-04-21 14:30;2,0;Genrep med Kalle Moraeus;Hagagymnasiets aula,Borlänge;;$
+2018-04-21 17:00;2,5;Konsert: "Hemvärnets musikkår Borlänge och Borlänge Skolors Musikkor, Gästartist Kalle Moraeus;Hagagymnasiets aula,Borlänge;Uniform: m/87;$
+2018-04-24 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
+2018-05-06 10:00;5,0;Högvaktsrep;Ornäs sporthall, Ornäs;;$
+2018-05-08 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
+2018-05-15 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
+2018-05-16 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
 2018-05-19;2018-05-20;Marschspelning: Högvakt;Stockholm;;$
 2018-05-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-05-28;;Ev. Marschspelning: Blodomloppet;Sportfält,Borlänge;;$
 2018-05-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-06;;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
