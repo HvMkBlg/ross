@@ -403,14 +403,19 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-05-06 10:00;5,0;Högvaktsrep;Ornäs sporthall, Ornäs;;$
 2018-05-08 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
 2018-05-15 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
-2018-05-16 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
-2018-05-19;2018-05-20;Marschspelning: Högvakt;Stockholm;;$
+2018-05-16 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;OBS! m/87;$
+2018-05-19 07:00;3,0;Högvakt: Avresa;Musikskolan, Borlänge;;$
+2018-05-19;;Marschspelning: Högvakt;Stockholm;;$
+2018-05-20;;Marschspelning: Högvakt;Stockholm;;$
 2018-05-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-28;;Ev. Marschspelning: Blodomloppet;Sportfält,Borlänge;;$
+2018-05-26;;Dirigentkurs;Cozmoz,Borlänge;;$
+2018-05-27;;Dirigentkurs;Cozmoz,Borlänge;;$
+2018-05-28 17:15;2,5;Marschspelning: Blodomloppet;Hagagymnasiet, Borlänge;m/90;$
 2018-05-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-06;;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
 2018-06-10;;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
+2018-07-13;;Dansspelning: Alina och Marcus bröllop;Falun;;$
 2018-08-28 14:40;2,5;Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87;$
 2018-10-27 20:30;3.0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
 2018-11-08;;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
