@@ -404,20 +404,21 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-05-08 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
 2018-05-15 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;;$
 2018-05-16 18:45;2,5;Högvaktsrep;Cozmoz,Borlänge;OBS! m/87;$
-2018-05-19 07:00;3,0;Högvakt: Avresa;Musikskolan, Borlänge;;$
-2018-05-19;;Marschspelning: Högvakt;Stockholm;;$
-2018-05-20;;Marschspelning: Högvakt;Stockholm;;$
+2018-05-19 07:00;3,0;Högvakt: Avresa;Musikskolan, Borlänge;m/87;$
+2018-05-19 11:45;1,5;Marschspelning: Vaktparad och Högvaktsavlösning;Armémuseum, Stockholm;m/87;$
+2018-05-19 18:00;1,0;Konsert: Konsert på Stortorget;Armémuseum, Stockholm;m/87;$
+2018-05-20 12:45;1,5;Marschspelning: Vaktparad och Högvaktsavlösning;Armémuseum, Stockholm;m/87;$
 2018-05-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-05-26;;Dirigentkurs;Cozmoz,Borlänge;;$
-2018-05-27;;Dirigentkurs;Cozmoz,Borlänge;;$
+2018-05-26 10:00;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
+2018-05-27 10:00;4,0;Dirigentkurs;Cozmoz,Borlänge;;$
 2018-05-28 17:15;2,5;Marschspelning: Blodomloppet;Hagagymnasiet, Borlänge;m/90;$
 2018-05-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-06-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-06-06;;marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
+2018-06-06;;Marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;;$
 2018-06-10;;Marschspelning: Stadsparken;Falun;Uniform: m/87;$
 2018-07-13;;Dansspelning: Alina och Marcus bröllop;Falun;;$
 2018-08-28 14:40;2,5;Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87;$
 2018-10-27 20:30;3.0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
 2018-11-08;;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
-2018-11-28;;Konsert: Spökbrigadens 50-års jubileum;Mässen, Falun;Uniform: m/87;$
+2018-11-28;;Konsert: Spökbrigadens 50-årsjubileum;Mässen, Falun;Uniform: m/87;$
 2018-12-02;;Konsert: Adventskonsert;Sveatorget, Borlänge;Uniform: m/90;$
