@@ -416,7 +416,8 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-06-06 18:30;2,5;Marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;Uniform: m/87;$
 2018-06-10 14:40;2,5;Marschspelning: Stadsparken;Falun;Uniform: m/87 Tårtfika efter spelningen;$
 2018-07-13;;Dansspelning: Alina och Marcus bröllop;Dalasalen, Falun;Civil klädsel;$
-2018-08-28 14:40;2,5;Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87;$
+2018-08-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-08-28 19:30;1,5;Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87;$
 2018-10-27 20:30;3,0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
 2018-11-08;;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
 2018-11-28;;Konsert: Spökbrigadens 50-årsjubileum;Mässen, Falun;Uniform: m/87;$
