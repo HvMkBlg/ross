@@ -419,8 +419,8 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-08-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-08-28 19:00;1,5;Rep & Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87 Rep 19:00, Konsert 20:00;$
 2018-09-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-09-08;;Ev. Marschspelning: Parad på stan;Borlänge;;$
 2018-09-11 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-09-15 11:00;2,0;Ev. Konsert/Maschspelning: Bondens marknad;Falun;Uniform m/87;$
 2018-09-18 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-09-25 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-10-02 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
@@ -435,6 +435,7 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-11-20 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-11-27 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-11-28;;Konsert: Spökbrigadens 50-årsjubileum;Mässen, Falun;Uniform: m/87;$
-2018-12-02;;Konsert: Adventskonsert;Sveatorget, Borlänge;Uniform: m/90;$
-2018-12-04;;Ev. Repetition/Julfest;Borlänge;;$
-2018-12-11;;Ev. Repetition/Julfest;Borlänge;;$
+2018-12-02;;Ev. Konsert: Adventskonsert;Sveatorget, Borlänge;Uniform: m/90;$
+2018-12-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-12-08;;Konsert: Chefsöverlämning;Dalasalen, Falun;Ca 11:00 Uniform m/87;$
+2018-12-11;;Julfest;Tomteland;;$
