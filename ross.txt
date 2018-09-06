@@ -420,7 +420,6 @@ Kungl. Dalregementets marsch (notgaffel)
 2018-08-28 19:00;1,5;Rep & Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87 Rep 19:00, Konsert 20:00;$
 2018-09-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-09-11 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-09-15 11:00;2,0;Ev. Konsert/Maschspelning: Bondens marknad;Falun;Uniform m/87;$
 2018-09-18 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-09-25 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-10-02 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
