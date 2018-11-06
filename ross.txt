@@ -434,12 +434,10 @@ Buss från Musikskolan 11:30 via Falun. ;$
 2018-10-23 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-10-27 20:30;3,0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
 2018-11-06 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-11-08;;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
+2018-11-08 18:15;2,5;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
 2018-11-13 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-11-20 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-11-27 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2018-11-28;;Konsert: Spökbrigadens 50-årsjubileum;Mässen, Falun;Uniform: m/87;$
-2018-12-02;;Ev. Konsert: Adventskonsert;Sveatorget, Borlänge;Uniform: m/90;$
 2018-12-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-12-08;;Konsert: Chefsöverlämning;Dalasalen, Falun;Ca 11:00 Uniform m/87;$
 2018-12-11;;Julfest;Tomteland;;$
