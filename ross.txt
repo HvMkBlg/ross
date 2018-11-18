@@ -440,4 +440,5 @@ Buss från Musikskolan 11:30 via Falun. ;$
 2018-11-27 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-12-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2018-12-08;;Konsert: Chefsöverlämning;Dalasalen, Falun;Ca 11:00 Uniform m/87;$
-2018-12-11;;Julfest;Tomteland;;$
+2018-12-11 19:00;3,0;Julfest;Gammelgården, Borlänge;;$
+2019-01-08 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
