@@ -60,6 +60,7 @@ Buss från Musikskolan 11:30 via Falun. ;$
 2018-12-11 19:00;3,0;Julfest;Gammelgården, Borlänge;;$
 2019-01-08 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-01-15 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-01-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-01-29 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-02-02 13:00;2,0;Spel;Falun;m/90;$
 2019-02-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
