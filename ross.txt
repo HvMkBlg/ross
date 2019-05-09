@@ -75,14 +75,25 @@ Buss från Musikskolan 11:30 via Falun. ;$
 2019-04-09 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-04-16 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-05-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2019-05-10;;Marschspelning: Soldaterinran;Falun;m/90;$
+2019-05-10;;Spel: Soldaterinran;Falun;m/90;$
 2019-05-14 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2019-05-18;;Marschspelning: Blåsmusikens Dag;;m/87;$
-2019-05-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2019-05-28 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-05-18 12:30;2,0;Marschspelning: Blåsmusikens Dag;Sveatorget Borlänge;Uniform: m/87
+High Society
+I Love You And Don´t You Forget It
+Norrlandsfärger
+General Cederschöld
+På post för Sverige
+Zacatecas (kommer på rep 7/5)
+Warming Up (kommer på rep 7/5)
+Promotion (kommer på rep 7/5)
+;$
+2019-05-21 18:45;2,5;Repetition med solister och kör;Cozmoz,Borlänge;;$
+2019-05-28 18:45;2,5;Genrep. med solister och kör;Cozmoz,Borlänge;;$
+2019-06-02 19:00;3,0;Konsert: Stora Tuna Kyrka 550 år;Stora Tuna Kyrka, Borlänge;Uniform: m/87;$
 2019-06-04 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-06-06 18:30;2,5;Marschspelning/Konsert: Nationaldagen;Rommehedslägret,Borlänge;Uniform: m/87;$
 2019-06-11 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-06-16 15:00;1,0;Konsert: Stadsparken i falun;Stadsparken,Falun;Uniform: m/87;$
 2019-06-18 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-07-06;;Eventuellt: Högvaktsträning. I13;Falun;;$
 2019-07-07;;Eventuellt: Högvaktsträning. I13;Falun;;$
