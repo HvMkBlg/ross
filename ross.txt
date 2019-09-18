@@ -101,3 +101,19 @@ Promotion (kommer på rep 7/5)
 2019-08-27 19:00;1,5;Rep & Marschspelning: Stortapto;Rommehedslägret;Uniform: m/87, Konsert 20:00;$
 2019-09-14;;Marschspelning: Högvakt;Stockholm;;$
 2019-09-15;;Marschspelning: Högvakt;Stockholm;;$
+2019-09-17 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-09-24 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-10-01 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-10-08 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-10-15 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-10-22 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-10-26 20:30;3,0; Dansbansdspelning: Dalabataljonens Höstfest;Dalasalen, Falun;Uniform: m/87;$
+2019-11-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-11-12 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-11-14 18:15;2,5;Konsert: Musikafton;Dalasalen, Falun;Uniform: m/87;$
+2019-11-19 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-11-26 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2019-12-03 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2018-12-07;;Konsert: Chefsöverlämning;Dalasalen, Falun;Uniform m/87;$
+2019-12-10 18:45;2,5;Rep/Julavslutning?;Cozmoz,Borlänge;;$
+2019-12-17 18:45;2,5;Julavslutning?;Cozmoz,Borlänge;;$
