@@ -114,6 +114,5 @@ Promotion (kommer på rep 7/5)
 2019-11-19 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-11-26 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2019-12-03 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2019-12-07;;Konsert: Chefsöverlämning;Dalasalen, Falun;Uniform m/87;$
-2019-12-10 18:45;2,5;Rep/Julavslutning?;Cozmoz,Borlänge;;$
-2019-12-17 18:45;2,5;Julavslutning?;Cozmoz,Borlänge;;$
+2019-12-07 11:15;4,0;Konsert: Chefsöverlämning;Dalasalen, Falun;Uniform m/87;$
+2020-01-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
