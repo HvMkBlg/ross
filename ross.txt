@@ -119,11 +119,28 @@ Promotion (kommer på rep 7/5)
 2020-01-24;;Kombatantutbildning;Dalregementet,Falun;;$
 2020-01-25;;Kombatantutbildning;Dalregementet,Falun;;$
 2020-01-26;;Kombatantutbildning;Dalregementet,Falun;;$
-2020-02-23;;Konsert: Semmelkonsert;Cozmoz, Borlänge;;$
+2020-02-11 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-02-18 18:45;2,5;Repetition OBS!!Hagagymnasiet;Hagagymnasiet,Borlänge;;$
+2020-02-23 14:00;2,5;Konsert: Semmelkonsert;Cozmoz, Borlänge;Uniform: m/87;$
 2020-02-25;;Årsmöte;Cozmoz, Borlänge;;$
-2020-03-29;;Konsert: Lottornas kyrksöndag;Mora kyrka;;$
+2020-03-03 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-03-10 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-03-17 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-03-24 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-03-29;;Konsert: Lottornas kyrksöndag;Mora kyrka;Uniform: m/87;$
+2020-03-31 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-04-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-04-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-04-28 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-05-05 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-05-12 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-05-19 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-05-26 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-05-29;;Hemvärnet 80 år;Dalarna;;$
+2020-05-31 19:00;2,5;Konsert: Prostgårdsparken;Stora Tuna Kyrka,Borlänge;;$
+2020-06-02 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-06-06;;Nationaldagen;Rommehedslägret, Borlänge;;$
+2020-06-09 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-06-13;;Marschspelning: Högvaktsspelning;Kungliga slottet, Stockholm;;$
 2020-06-14;;Marschspelning: Högvaktsspelning;Kungliga slottet, Stockholm;;$
 2020-08-25;;Konsert: Stortapto;Rommehedslägret, Borlänge;;$
