@@ -125,9 +125,9 @@ Promotion (kommer på rep 7/5)
 2020-02-25;;Årsmöte;Cozmoz, Borlänge;;$
 2020-03-03 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-03-10 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2020-03-17 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
+2020-03-17 18:45;2,5;Inställt! Repetition;Cozmoz,Borlänge;;$
 2020-03-24 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
-2020-03-29;;Konsert: Lottornas kyrksöndag;Mora kyrka;Uniform: m/87;$
+2020-03-29;;Inställt! Konsert: Lottornas kyrksöndag;Mora kyrka;Uniform: m/87;$
 2020-03-31 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-04-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2020-04-21 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
