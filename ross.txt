@@ -143,5 +143,6 @@ Promotion (kommer på rep 7/5)
 2020-06-09 18:45;2,5;Inställt! Repetition;Cozmoz,Borlänge;;$
 2020-06-13;;Inställt! Marschspelning: Högvaktsspelning;Kungliga slottet, Stockholm;;$
 2020-06-14;;Inställt! Marschspelning: Högvaktsspelning;Kungliga slottet, Stockholm;;$
-2020-08-25;;Konsert: Stortapto;Rommehedslägret, Borlänge;;$
-2020-09-26;;Konsert: Jubileumskonsert - Hämvertets Musikkår Borlänge 80 år;Hagaskolan, Borlänge;;$
+2020-08-25;;Inställt! Konsert: Stortapto;Rommehedslägret, Borlänge;;$
+2020-09-01 19:30;2,5;Repetition;Hagaskolans aula,Borlänge;;$
+2020-09-26;;Framflyttat!Konsert: Jubileumskonsert - Hämvertets Musikkår Borlänge 80 år;Hagaskolan, Borlänge;;$
