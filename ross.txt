@@ -157,6 +157,10 @@ Promotion (kommer på rep 7/5)
 2021-11-30 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2021-12-07 18:45;2,5;Repetition;Cozmoz,Borlänge;;$
 2021-12-14 18:45;2,5;Julavslutning;Borlänge;;$
-2022-06-16;;Konsert/Marschspelning: Dala Tapto;Falun;;$
-2022-06-17;;Konsert/Marschspelning: Dala Tapto;Falun;;$
-2022-06-18;;Konsert/Marschspelning: Dala Tapto;Falun;;$
+2022-05-17 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2022-05-24 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2022-05-27 13:00;1,0>;Konsert: Lions Riksmöte;Lugnetkyrkan,Falun;m/87;$
+2022-05-30 18:00;2,0;Marschspelning: Blodomloppet;Sportfältet,Borlänge;m90 lätt;$
+2022-05-31 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2022-06-06;;Konsert: Nationaldagen;Rommehedslägret, Borlänge;m/87;$
+2022-06-07 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
