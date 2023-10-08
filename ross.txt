@@ -164,3 +164,16 @@ Promotion (kommer på rep 7/5)
 2022-05-31 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
 2022-06-06;;Konsert: Nationaldagen;Rommehedslägret, Borlänge;m/87;$
 2022-06-07 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-10-10 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-10-17 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-10-21 10:00;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
+2023-10-22 10:00;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
+2023-10-24 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-10-31 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-11-07 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-11-14 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-11-16;;Konsert: Musikafton;Dalasalen,Falun;;$
+2023-11-21 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-11-28 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-12-05 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
+2023-12-12 19:00;2,25;Julavslutning;;;$
