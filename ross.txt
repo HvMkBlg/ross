@@ -166,8 +166,8 @@ Promotion (kommer på rep 7/5)
 2022-06-07 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
 2023-10-10 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
 2023-10-17 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
-2023-10-21 10:00;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
-2023-10-22 10:00;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
+2023-10-21 09:30;6,5;Dirigentkurs;Cozmoz,Borlänge;;$
+2023-10-22 09:30;6,0;Dirigentkurs;Cozmoz,Borlänge;;$
 2023-10-24 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
 2023-10-31 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
 2023-11-07 19:00;2,25;Repetition;Cozmoz,Borlänge;;$
